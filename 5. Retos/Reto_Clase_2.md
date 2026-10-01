@@ -81,6 +81,8 @@ Agreguen código, imágenes o instrucciones cuando ayuden a comprender y reprodu
 
 Pueden apoyarse en la Gema para formular preguntas, comparar alternativas, producir bocetos, escribir código, preparar una prueba o redactar documentación.
 
+> [IA de apoyo](https://gemini.google.com/gem/1sJ9zIx0guqclozR8of1Pujj8KGgxD4Wt?usp=sharing)
+
 Compartan la intención, los recursos disponibles y el punto en que se encuentran. Revisen sus propuestas y prueben lo que produzca.
 
 Registren brevemente en qué les ayudó la IA y qué decisiones tomó el grupo.
