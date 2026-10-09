@@ -10,8 +10,8 @@ Esta es tu carpeta personal. Aqui subes todos tus trabajos y entregas del curso.
 
 | # | Trabajo | Carpeta | Estado |
 |---|---------|---------|--------|
-| 1 | Laboratorio 1 | `lab-01/` | Pendiente |
-| 2 | Laboratorio 2 | `lab-02/` | Pendiente |
+| 1 | Laboratorio 1 | `lab-01/` | Entregado |
+| 2 | Laboratorio 2 | `lab-02/` | Entregado |
 | 3 | Proyecto final | `proyecto-final/` | Pendiente |
 
 ## Como subir mis trabajos
