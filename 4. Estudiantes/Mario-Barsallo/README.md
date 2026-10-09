@@ -1,29 +1,31 @@
 # Mario Esteban Barsallo Vasquez
 
-Bienvenido al repositorio del curso **SINT-741 - Curso Activadores** - Universidad Cenfotec.
+Estudiante del curso **SINT-741 · Activadores de Comunidades de Práctica**, Universidad Cenfotec.
+GitHub: [@MarioLowPoly](https://github.com/MarioLowPoly)
 
-Esta es tu carpeta personal. Aqui subes todos tus trabajos y entregas del curso.
+Esta carpeta reúne mis trabajos y entregas del curso.
 
-**Usuario GitHub:** Mario-Barsallo
+## Entregas
 
-## Mis entregas
-
-| # | Trabajo | Carpeta | Estado |
-|---|---------|---------|--------|
-| 1 | Laboratorio 1 | `lab-01/` | Entregado |
-| 2 | Laboratorio 2 | `lab-02/` | Entregado |
+| # | Trabajo | Documentos | Estado |
+|---|---------|------------|--------|
+| 1 | Laboratorio 1 · Reto de clase 1 | [Reto](lab-01/lab-01-reto-clase-1.md) · [Conclusión de la semana 1](lab-01/conclusion-semana-01.md) | Entregado |
+| 2 | Laboratorio 2 · Reto de clase 2 | [Mapa de Comunidad](lab-02/mapa-comunidad.md) · [Prototipo](lab-02/prototipo) | Entregado |
 | 3 | Proyecto final | `proyecto-final/` | Pendiente |
 
-## Como subir mis trabajos
+## Proyectos
 
-Consulta la guia completa con imagenes en **4. Estudiantes/README.md**.
+- **Laboratorio 1.** Una comunidad de jóvenes que aprenden animación y diseño 3D con Blender, en el Rincón Clubhouse de La Chorrera (Panamá).
+- **Laboratorio 2.** *Tú Decides*, un juego corto para el navegador donde una decisión pequeña sobre el entorno cambia el final de la historia. Hecho con el Grupo 1, Arte y cultura.
 
-## Estructura sugerida
+## Estructura
 
 ```
 Mario-Barsallo/
-+-- README.md
-+-- lab-01/
-+-- lab-02/
-+-- proyecto-final/
+├── README.md
+├── lab-01/
+├── lab-02/
+│   ├── mapa-comunidad.md
+│   └── prototipo/
+└── proyecto-final/
 ```
